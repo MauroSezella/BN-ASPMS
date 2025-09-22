@@ -1,18 +1,10 @@
-## Getting Started
+## BN-ASPMS
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Es una herramienta que permite asistir en la eleccion del modelo de proceso de software mas acorde al proyecto en camino. Es el resultado de nuestro trabajo final de grado de la carrera, Lic. En Sistemas De Información de la Universidad Nacional de Santiago del Estero.
+Esta desarrollado en JAVA y utiliza una red bayesiana creada por nosotros.
+Utiliza el motor SMILE de bayes fusion para permitir el uso de la red bayesiana desarrollada.
 
-## Folder Structure
+## Recomendaciones
 
-The workspace contains two folders by default, where:
+Antes de correr el proyecto revisar la caducidad de la licencia de SMILE!!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
